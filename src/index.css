@@ -1,0 +1,28 @@
+.text-yellow{
+    color: #FEB139 !important;
+}
+
+.text-white{
+    color: #fff !important;
+}
+
+.checkButton{
+    text-decoration: none;
+    transition: 0.2s linear;
+}
+
+.checkButton:hover{
+    transform: scale(1.06);
+}
+.text-capital{
+    text-transform: capitalize;
+}
+
+.tempCont{
+    display: none;
+}
+
+body{
+    background: #0078AA !important;
+    height: 100vh !important;
+}
